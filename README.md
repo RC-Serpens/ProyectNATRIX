@@ -130,10 +130,6 @@ Planned improvements include:
 * More robust ROS2 integration.
 * Improved modularity for maintenance and competition repairs.
 
-## License
-
-This project is intended for educational and competition purposes. A license file should be added depending on the final distribution policy selected by the team.
-
 ## Acknowledgements
 
 Developed by **RC SERPENS**, representing the RC UANL robotics chapter and FIME - UANL for RoboCup RMRC 2026.
