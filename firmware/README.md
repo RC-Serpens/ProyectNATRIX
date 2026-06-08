@@ -1,0 +1,1 @@
+This folder contains the low-level firmware used by the robot microcontroller. It includes code related to actuator control, sensor reading, serial communication, and real-time execution of commands received from the onboard computer.
